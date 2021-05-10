@@ -1,6 +1,6 @@
 # ReactJS Login/Register Template With VantaJS Background
 
-#### This project is a login/Register template created with reactjs. It includes Vantajs dynamic background implementation.
+#### This project is a Login/Register template created with ReactJS. It includes Vantajs dynamic background implementation.
 
 It was created as a **Java 8 Spring Boot Maven** project.
 
