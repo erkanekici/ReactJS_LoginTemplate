@@ -2,8 +2,6 @@
 
 #### This project is a Login/Register template created with ReactJS. It includes Vantajs dynamic background implementation.
 
-It was created as a **Java 8 Spring Boot Maven** project.
-
 ---
 - [Available Scripts](#available-scripts)
   - [npm run start](#npm-run-start)
